@@ -1,55 +1,30 @@
-# Project Name
+# DevTools Repository
 
-A brief description of what this project does.
+This repository contains general development tools and scripts. It is designed to be platform-agnostic where possible.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- General utility scripts
+- Configuration files
 
 ## Installation
 
-```bash
-npm install
-# or
-yarn install
-# or
-pip install -r requirements.txt
-```
+Refer to individual tool documentation for installation instructions.
 
 ## Usage
 
-```bash
-npm start
-# or
-python main.py
-```
+Refer to individual tool documentation for usage instructions.
 
 ## Development
 
-### Prerequisites
-
-- Node.js 18+
-- Python 3.8+
-- etc.
-
-### Setup
-
-1. Clone the repository
-2. Install dependencies
-3. Run tests
-
-```bash
-npm test
-```
+Contributions are welcome. Please ensure any new tools or scripts are cross-platform compatible or clearly documented for their intended environment.
 
 ## Contributing
 
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
-4. Run tests
+4. Run tests (if applicable)
 5. Submit a pull request
 
 ## License
